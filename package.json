@@ -1,0 +1,22 @@
+{
+  "name": "@xmifunx/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmifunx/ajs.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Mifun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmifunx/ajs/issues"
+  },
+  "homepage": "https://github.com/xmifunx/ajs#readme",
+  "description": ""
+}
